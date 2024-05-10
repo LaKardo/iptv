@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://exstream.net.ua/iptv/jtv.zip" url-tvg="http://exstream.net.ua/iptv/jtv.zip,http://exstream.net.ua/iptv/resp.xml,http://exstream.net.ua/iptv/onex.gz,https://iptvx.one/EPG/epg.xml.gz" m3uautoload=1 cache=1024 deinterlace=1 tvg-shift=0
+#EXTM3U x-tvg-url="http://exstream.net.ua/iptv/jtv.zip,https://iptvx.one/EPG/epg.xml.gz" url-tvg="http://exstream.net.ua/iptv/jtv.zip,http://exstream.net.ua/iptv/resp.xml,http://exstream.net.ua/iptv/onex.gz,https://iptvx.one/EPG/epg.xml.gz" m3uautoload=1 cache=1024 deinterlace=1 tvg-shift=0
 #EXTINF:0 tvg-name="1 Республиканский" tvg-shift="-0" , 1-й Республиканский
 http://10.0.0.12:9002/1_respub/index.m3u8
 #EXTINF:0 tvg-name="Оплот ТВ" tvg-shift="-0" , Оплот ТВ
