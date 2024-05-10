@@ -11,7 +11,6 @@ http://10.0.0.12:9002/novoros/index.m3u8
 #EXTINF:0 tvg-name="Юнион" , Юнион
 http://10.0.0.12:9002/union/index.m3u8
 
-
 #EXTINF:0 tvg-id="360-podmoskovie", Телеканал 360
 http://10.0.0.12:7708/360Podmoskove/index.m3u8
 #EXTINF:0 tvg-id="piatnica", Пятница
@@ -45,7 +44,7 @@ http://10.0.0.12:7814/STS_HD/index.m3u8
 #EXTINF:0 tvg-id="tnt", ТНТ (HD)
 http://10.0.0.12:7710/TNT_HD/index.m3u8
 #EXTINF:0 tvg-id="tnt4", ТНТ4
-http://10.0.0.12:7709/TNT4/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:0 tvg-id="match-tv", Матч! (HD)
 http://10.0.0.12:7710/MATCH!_HD/index.m3u8
 #EXTINF:0 tvg-id="karusel", Карусель
@@ -58,7 +57,6 @@ http://10.0.0.12:7702/TV_Centr_Evropa/index.m3u8
 http://10.0.0.12:7702/OTR/index.m3u8
 #EXTINF:0 tvg-id="spas", Спас ТВ
 http://10.0.0.12:7713/Spas
-
 
 #EXTINF:0 tvg-id="football-ru", Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
@@ -79,13 +77,17 @@ https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:0 tvg-id="mir-24", Мир 24
 https://strm.yandex.ru/kal/mir_24_belarus/mir_24_belarus0.m3u8
 #EXTINF:0 tvg-id="solovjinypomiot", Соловьёв Live
-https://player.smotrim.ru/iframe/stream/live_id/63338
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:0 tvg-id="start", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:0 tvg-id="start-triumf", Старт Триумф HD
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
-
-
+#EXTINF:0 tvg-id="rbk", РБК 
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:0 tvg-id="dikaya-oxota-hd", Дикая охота HD 
+https://bkm.beetv.kz/btv/live/hls/000004609.m3u8
+#EXTINF:0 tvg-id="dikaya-rybalka-hd", Дикая рыбалка HD
+https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
 
 
 
@@ -104,28 +106,6 @@ http://193.201.98.10:5000/c143
 #EXTINF:0 group-title="Кино", Viju+ Serial HD
 http://91.205.199.3:80/vipserialhd/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="Новости", РБК 
-http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ HD
-https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ4 HD
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-
-#EXTINF:-1 group-title="Новости", Соловьёв.Live HD
-https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
-#EXTINF:-1 group-title="Хобби", Дикая охота HD 
-https://bkm.beetv.kz/btv/live/hls/000004609.m3u8
-#EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
-https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
 http://193.201.98.10:5000/c103
 #EXTINF:-1 group-title="Спорт", Матч! Боец
@@ -134,29 +114,16 @@ http://91.207.114.209:5000/c107
 http://193.201.98.10:5000/c104
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://91.207.114.209:5000/c105
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер HD (AceStream)
-http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
-#EXTINF:-1 group-title="Спорт", Матч! Страна
+#EXTINF:-1 group-title="Спорт", Матч! Страна HD
 http://193.201.98.10:5000/c106
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://193.201.98.10:5000/c114
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
 http://91.207.114.209:5000/c114
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://193.201.98.10:5000/c115
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
 http://91.207.114.209:5000/c115
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
-http://193.201.98.10:5000/c116
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
 http://91.207.114.209:5000/c116
-
-
-
 #EXTINF:-1 group-title="Спорт", Хоккейный HD
 http://31.211.77.158:8000/play/a135/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 1 HD
