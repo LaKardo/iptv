@@ -1,72 +1,72 @@
 #EXTM3U x-tvg-url="http://exstream.net.ua/iptv/jtv.zip" url-tvg="http://exstream.net.ua/iptv/jtv.zip,http://exstream.net.ua/iptv/resp.xml,http://exstream.net.ua/iptv/onex.gz,http://epgx.site/epg_lite.xml.gz" refresh="86400" m3uautoload=1 cache=1024 deinterlace=1 tvg-shift=0
 
-#EXTINF:0 tvg-name="1 Республиканский" tvg-shift="-0" , 1-й Республиканский
+#EXTINF:0 tvg-name="1 Республиканский" , 1-й Республиканский
 http://10.0.0.12:9002/1_respub/index.m3u8
-#EXTINF:0 tvg-name="Оплот ТВ" tvg-shift="-0" , Оплот ТВ
+#EXTINF:0 tvg-name="Оплот ТВ" , Оплот ТВ
 http://10.0.0.12:9002/oplot_hd/index.m3u8
-#EXTINF:0 tvg-name="Оплот 2" tvg-shift="-0" , Оплот 2
+#EXTINF:0 tvg-name="Оплот 2" , Оплот 2
 http://91.224.16.9:7779/Oplot_2/index.m3u8
-#EXTINF:0 tvg-name="Новороссия ТВ" tvg-shift="-0" , Новороссия ТВ
+#EXTINF:0 tvg-name="Новороссия ТВ" , Новороссия ТВ
 http://10.0.0.12:9002/novoros/index.m3u8
-#EXTINF:0 tvg-name="Юнион" tvg-shift="-0" , Юнион
+#EXTINF:0 tvg-name="Юнион" , Юнион
 http://10.0.0.12:9002/union/index.m3u8
-#EXTINF:0 tvg-name="Первый канал" tvg-shift="-0" , Первый канал
+#EXTINF:0 tvg-name="Первый канал" , Первый канал
 http://10.0.0.12:7702/Perviy_kanal/index.m3u8
-#EXTINF:0 tvg-name="Первый канал" tvg-shift="-0" , Первый канал (HD)
+#EXTINF:0 tvg-name="Первый канал" , Первый канал (HD)
 http://10.0.0.12:7705/Perviy_kanal_HD/index.m3u8
-#EXTINF:0 tvg-name="ТНТ" tvg-shift="-0" , ТНТ
+#EXTINF:0 tvg-name="ТНТ" , ТНТ
 http://10.0.0.12:7702/TNT/index.m3u8
-#EXTINF:0 tvg-name="ТНТ" tvg-shift="-0" , ТНТ (HD)
+#EXTINF:0 tvg-name="ТНТ" , ТНТ (HD)
 http://10.0.0.12:7710/TNT_HD/index.m3u8
-#EXTINF:0 tvg-name="sts" tvg-shift="-0" , СТС
+#EXTINF:0 tvg-name="sts" , СТС
 http://10.0.0.12:7702/sts/index.m3u8
-#EXTINF:0 tvg-name="sts" tvg-shift="-0" , СТС HD
+#EXTINF:0 tvg-name="sts" , СТС HD
 http://10.0.0.12:7814/STS_HD/index.m3u8
-#EXTINF:0 tvg-name="Россия 1" tvg-shift="-0" , Россия 1
+#EXTINF:0 tvg-name="Россия 1" , Россия 1
 http://10.0.0.12:7713/Rossiya1/index.m3u8
-#EXTINF:0 tvg-name="Россия HD" tvg-shift="-0" , Россия 1 (HD)
+#EXTINF:0 tvg-name="Россия HD" , Россия 1 (HD)
 http://10.0.0.12:7710/Rossiya_HD/index.m3u8
-#EXTINF:0 tvg-name="Россия 24" tvg-shift="-0" , Россия 24
+#EXTINF:0 tvg-name="Россия 24" , Россия 24
 http://10.0.0.12:7713/Rossiya24/index.m3u8
-#EXTINF:0 tvg-name="Культура" tvg-shift="-0" , Россия Культура
+#EXTINF:0 tvg-name="Культура" , Россия Культура
 http://10.0.0.12:7713/RossiyaK/index.m3u8
-#EXTINF:0 tvg-name="Мир" tvg-shift="-0" , Мир
+#EXTINF:0 tvg-name="Мир" , Мир
 http://10.0.0.12:7713/Mir/index.m3u8
-#EXTINF:0 tvg-name="НТВ" tvg-shift="-0" , НТВ
+#EXTINF:0 tvg-name="НТВ" , НТВ
 http://10.0.0.12:7702/NTV/index.m3u8
-#EXTINF:0 tvg-name="НТВ HD" tvg-shift="-0" , НТВ (HD)
+#EXTINF:0 tvg-name="НТВ HD" , НТВ (HD)
 http://10.0.0.12:7705/NTV_HD/index.m3u8
-#EXTINF:0 tvg-id="rtr-planeta-eu" tvg-shift="-0" , РТР Планета
+#EXTINF:0 tvg-id="rtr-planeta-eu" , РТР Планета
 http://10.0.0.12:9002/rtr_planeta/index.m3u8
-#EXTINF:0 tvg-name="Рен ТВ" tvg-shift="-0" , Рен ТВ
+#EXTINF:0 tvg-name="Рен ТВ" , Рен ТВ
 http://10.0.0.12:7713/RenTV/index.m3u8
-#EXTINF:0 tvg-name="ТВ-3" tvg-shift="-0" , ТВ3
+#EXTINF:0 tvg-name="ТВ-3" , ТВ3
 http://10.0.0.12:7713/TV3/index.m3u8
-#EXTINF:0 tvg-name="Звезда" tvg-shift="-0" , Звезда
+#EXTINF:0 tvg-name="Звезда" , Звезда
 http://10.0.0.12:7713/Zvezda/index.m3u8
-#EXTINF:0 tvg-name="Пятый Канал" tvg-shift="-0" , 5 Канал
+#EXTINF:0 tvg-name="Пятый Канал" , 5 Канал
 http://10.0.0.12:7713/5Kanal/index.m3u8
-#EXTINF:0 tvg-name="Домашний" tvg-shift="-0" , Домашний
+#EXTINF:0 tvg-name="Домашний" , Домашний
 http://10.0.0.12:7702/Domashniy/index.m3u8
-#EXTINF:0 tvg-name="ТНТ4" tvg-shift="-0" , ТНТ4
+#EXTINF:0 tvg-name="ТНТ4" , ТНТ4
 http://10.0.0.12:7709/TNT4/index.m3u8
-#EXTINF:0 tvg-name="Пятница" tvg-shift="-0" , Пятница
+#EXTINF:0 tvg-name="Пятница" , Пятница
 http://10.0.0.12:7713/Pyatnica/index.m3u8
-#EXTINF:0 tvg-name="Матч!" tvg-shift="-0" , Матч!
+#EXTINF:0 tvg-name="Матч!" , Матч!
 http://10.0.0.12:7713/Match!/index.m3u8
-#EXTINF:0 tvg-name="Матч! HD" tvg-shift="-0" , Матч! (HD)
+#EXTINF:0 tvg-name="Матч! HD" , Матч! (HD)
 http://10.0.0.12:7710/MATCH!_HD/index.m3u8
-#EXTINF:0 tvg-name="Карусель" tvg-shift="-0" , Карусель
+#EXTINF:0 tvg-name="Карусель" , Карусель
 http://10.0.0.12:7702/karusel/index.m3u8
-#EXTINF:0 tvg-name="МУЗ-ТВ" tvg-shift="-0" , Муз ТВ
+#EXTINF:0 tvg-name="МУЗ-ТВ" , Муз ТВ
 http://10.0.0.12:7702/MUZ/index.m3u8
-#EXTINF:0 tvg-name="ТВ_Центр" tvg-shift="-0" , ТВЦ
+#EXTINF:0 tvg-name="ТВ_Центр" , ТВЦ
 http://10.0.0.12:7702/TV_Centr_Evropa/index.m3u8
-#EXTINF:0 tvg-name="ОТР" tvg-shift="-0" , ОТР
+#EXTINF:0 tvg-name="ОТР" , ОТР
 http://10.0.0.12:7702/OTR/index.m3u8
-#EXTINF:0 tvg-name="Телеканал 360" tvg-shift="-0" , Телеканал 360
+#EXTINF:0 tvg-name="Телеканал 360" , Телеканал 360
 http://10.0.0.12:7708/360Podmoskove/index.m3u8
-#EXTINF:0 tvg-name="Спас ТВ" tvg-shift="-0" , Спас ТВ
+#EXTINF:0 tvg-name="Спас ТВ" , Спас ТВ
 http://10.0.0.12:7713/Spas
 
 
