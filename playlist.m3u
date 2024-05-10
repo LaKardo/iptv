@@ -88,34 +88,20 @@ https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 
 
 
-#EXTINF:-1 ,TV1000 HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1 ,TV1000 Action HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 ,TV1000 Русское кино
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1 ,TV1000 HD
-http://pilot.multiscreen.moldtelecom.md/live/eds/tv1000_hd/HLSv3/tv1000_hd.m3u8
-#EXTINF:-1 ,TV1000 Русское кино HD
-http://pilot.multiscreen.moldtelecom.md/live/eds/tv1000russkoe_kino_hd/HLSv3/tv1000russkoe_kino_hd.m3u8
-#EXTINF:-1 ,TV1000 World Kino
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/1065/index.m3u8
-#EXTINF:-1 ,VIP Premiere
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 ,VIP Megahit
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 ,VIP Comedy
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Кино", Кинокомедия
+http://91.205.199.3:80/komedia/index.m3u8
+#EXTINF:-1 group-title="Кино", Кинокомедия HD
+http://188.113.190.15/334/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Киномикс
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Киномикс HD
+https://st1.uzdigital.tv/Kinomiks/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Кинопоказ
+http://178.163.37.154:4022/udp/234.0.0.209:2000
+#EXTINF:-1 group-title="Кино", Кинопремьера
+http://91.207.114.209:5000/c42
+#EXTINF:-1 group-title="Кино", Кинопремьера HD
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 
 
 
