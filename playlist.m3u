@@ -67,43 +67,31 @@ http://10.0.0.12:7702/OTR/index.m3u8
 http://10.0.0.12:7708/360Podmoskove/index.m3u8
 #EXTINF:0 tvg-name="Спас ТВ" tvg-shift="-0" , Спас ТВ
 http://10.0.0.12:7713/Spas
-
-
-#EXTINF:0 tvg-name="Футбол" tvg-shift="-0" , Футбол
+ 
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epgx.site/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTINF:0 channelId="919" tvg-id="football-ru" tvg-name="Футбол" tvg-shift="-0" , Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 
-#EXTINF:0 tvg-name="Бокс ТВ" tvg-shift="-0" , Бокс ТВ
+#EXTINF:0 channelId="1827" tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-shift="-0" , Бокс ТВ
 https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
 
-#EXTINF:0 tvg-name="2x2" tvg-shift="-0" , 2x2
+#EXTINF:0 channelId="14" tvg-id="2na2" tvg-name="2x2" tvg-shift="-0" , 2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
 
-#EXTINF:0 tvg-name="ТНТ Music" tvg-shift="-0" , ТНТ Music
+#EXTINF:0 channelId="24" tvg-id="tnt-music" tvg-name="ТНТ Music" tvg-shift="-0" , ТНТ Music
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 
-#EXTINF:0 tvg-name="НТВ Сериал" tvg-shift="-0" , НТВ Сериал
+#EXTINF:0 channelId="3160" tvg-id="ntv-serial" tvg-name="НТВ Сериал" tvg-shift="-0" , НТВ Сериал
 https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 
-#EXTINF:0 tvg-name="Кинокомедия" tvg-shift="-0" , Кинокомедия
+#EXTINF:0 channelId="194" tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-shift="-0" , Кинокомедия
 https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
 
-#EXTINF:0 tvg-name="Киномикс" tvg-shift="-0" , Киномикс
+#EXTINF:0 channelId="270" tvg-id="kinomiks" tvg-name="Киномикс" tvg-shift="-0" , Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 
-#EXTINF:0 tvg-name="Кинопремьера" tvg-shift="-0" , Кинопремьера
+#EXTINF:0 channelId="410" tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-shift="-0" , Кинопремьера
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 
-#EXTINF:0 tvg-name="РБК" tvg-shift="-0" , РБК
-https://strm.yandex.ru/kal/rbc/rbc0.m3u8
-
-#EXTINF:0 tvg-id="mir-24" , Мир 24
+#EXTINF:0 channelId="589" tvg-id="mir-24" tvg-name="Мир 24" tvg-shift="-0" , Мир 24
 https://strm.yandex.ru/kal/mir_24_belarus/mir_24_belarus0.m3u8
-
-#EXTINF:0 channelId="143" tvg-id="russia-today" , Russia Today
-https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
-
-#EXTINF:0 channelId="782" tvg-id="rtr-planeta-azia" , Россия РТР
-https://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
-
-#EXTINF:0 tvg-id="DomkinoPremium.ru" , Дом Кино Премиум
-http://streaming.tv-teleport.ru/Dom_Kino_Premium_HD/index.m3u8
