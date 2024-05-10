@@ -88,24 +88,19 @@ https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 
 
 
-#EXTINF:-1 group-title="Кино", Viju TV1000 
-http://91.205.199.3/tv1000/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 HD
+
+#EXTINF:0 group-title="Кино", Viju TV1000 HD
 https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 Action
-http://91.205.199.3/tv1000action/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 Action HD 
+#EXTINF:0 group-title="Кино", Viju TV1000 Action HD 
 https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
-http://91.207.114.209:5000/c37
-#EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино HD 
+#EXTINF:0 group-title="Кино", Viju TV1000 Русское кино HD 
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
-#EXTINF:-1 group-title="Кино", Viju+ Premiere HD
+#EXTINF:0 group-title="Кино", Viju+ Premiere HD
 https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
-#EXTINF:-1 group-title="Кино", Viju+ Megahit HD
+#EXTINF:0 group-title="Кино", Viju+ Megahit HD
 http://91.207.114.209:5000/c144
-#EXTINF:-1 group-title="Кино", Viju+ Comedy HD
+#EXTINF:0 group-title="Кино", Viju+ Comedy HD
 http://193.201.98.10:5000/c143
-#EXTINF:-1 group-title="Кино", Viju+ Serial HD
+#EXTINF:0 group-title="Кино", Viju+ Serial HD
 http://91.205.199.3:80/vipserialhd/index.m3u8
 
