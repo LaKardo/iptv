@@ -80,9 +80,42 @@ https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 https://strm.yandex.ru/kal/mir_24_belarus/mir_24_belarus0.m3u8
 #EXTINF:0 tvg-id="solovjinypomiot", Соловьёв Live
 https://player.smotrim.ru/iframe/stream/live_id/63338
-
-
 #EXTINF:-1 tvg-id="start", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 tvg-id="start-triumf", Старт Триумф HD
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+
+
+
+
+#EXTINF:-1 ,TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 ,TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 ,TV1000 HD
+http://pilot.multiscreen.moldtelecom.md/live/eds/tv1000_hd/HLSv3/tv1000_hd.m3u8
+#EXTINF:-1 ,TV1000 Русское кино HD
+http://pilot.multiscreen.moldtelecom.md/live/eds/tv1000russkoe_kino_hd/HLSv3/tv1000russkoe_kino_hd.m3u8
+#EXTINF:-1 ,TV1000 World Kino
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/1065/index.m3u8
+#EXTINF:-1 ,VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 ,VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 ,VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
