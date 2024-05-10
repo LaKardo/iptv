@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epgx.site/epg_lite.xml.gz" refresh="86400" m3uautoload=1 cache=1024 deinterlace=1 tvg-shift=0
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epgx.site/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
 #EXTINF:0 tvg-id="football-ru", Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
