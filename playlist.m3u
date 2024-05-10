@@ -1,36 +1,5 @@
-#EXTM3U deinterlace=1 url-tvg="http://epgx.site/epg_lite.xml.gz" refresh="86400" m3uautoload=1 tvg-shift=0 cache=500
+#EXTM3U x-tvg-url="http://exstream.net.ua/iptv/jtv.zip" url-tvg="http://exstream.net.ua/iptv/jtv.zip,http://exstream.net.ua/iptv/resp.xml,http://exstream.net.ua/iptv/onex.gz,http://epgx.site/epg_lite.xml.gz" refresh="86400" m3uautoload=1 cache=1024 deinterlace=1 tvg-shift=0
 
-#EXTINF:0 tvg-id="football-ru", Футбол
-https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
-
-#EXTINF:0 tvg-id="box-tv", Бокс ТВ
-https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
-
-#EXTINF:-1 channelId="14" tvg-id="2na2",2x2
-https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
-
-#EXTINF:0 tvg-id="tnt-music", ТНТ Music
-https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
-
-#EXTINF:0 tvg-id="ntv-serial", НТВ Сериал
-https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
-
-#EXTINF:0 tvg-id="kinokomedia", Кинокомедия
-https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
-
-#EXTINF:0 tvg-id="kinomiks", Киномикс
-https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
-
-#EXTINF:0 tvg-id="kinopremiera-hd", Кинопремьера
-https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
-
-#EXTINF:0 tvg-id="mir-24", Мир 24
-https://strm.yandex.ru/kal/mir_24_belarus/mir_24_belarus0.m3u8
-
-
-
-
-#EXTM3U x-tvg-url="http://exstream.net.ua/iptv/jtv.zip" url-tvg="http://exstream.net.ua/iptv/jtv.zip,http://exstream.net.ua/iptv/resp.xml,http://exstream.net.ua/iptv/onex.gz" refresh="86400" m3uautoload=1 cache=1024 deinterlace=1 tvg-shift=0
 #EXTINF:0 tvg-name="1 Республиканский" tvg-shift="-0" , 1-й Республиканский
 http://10.0.0.12:9002/1_respub/index.m3u8
 #EXTINF:0 tvg-name="Оплот ТВ" tvg-shift="-0" , Оплот ТВ
@@ -67,7 +36,7 @@ http://10.0.0.12:7713/Mir/index.m3u8
 http://10.0.0.12:7702/NTV/index.m3u8
 #EXTINF:0 tvg-name="НТВ HD" tvg-shift="-0" , НТВ (HD)
 http://10.0.0.12:7705/NTV_HD/index.m3u8
-#EXTINF:0 tvg-name="Россия-Планета_(Европа)" tvg-shift="-0" , РТР Планета
+#EXTINF:0 tvg-id="rtr-planeta-eu" tvg-shift="-0" , РТР Планета
 http://10.0.0.12:9002/rtr_planeta/index.m3u8
 #EXTINF:0 tvg-name="Рен ТВ" tvg-shift="-0" , Рен ТВ
 http://10.0.0.12:7713/RenTV/index.m3u8
@@ -99,3 +68,33 @@ http://10.0.0.12:7702/OTR/index.m3u8
 http://10.0.0.12:7708/360Podmoskove/index.m3u8
 #EXTINF:0 tvg-name="Спас ТВ" tvg-shift="-0" , Спас ТВ
 http://10.0.0.12:7713/Spas
+
+
+
+#EXTINF:0 tvg-id="football-ru", Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+
+#EXTINF:0 tvg-id="box-tv", Бокс ТВ
+https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+
+#EXTINF:-1 channelId="14" tvg-id="2na2",2x2
+https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
+
+#EXTINF:0 tvg-id="tnt-music", ТНТ Music
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+
+#EXTINF:0 tvg-id="ntv-serial", НТВ Сериал
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+
+#EXTINF:0 tvg-id="kinokomedia", Кинокомедия
+https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
+
+#EXTINF:0 tvg-id="kinomiks", Киномикс
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+
+#EXTINF:0 tvg-id="kinopremiera-hd", Кинопремьера
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+
+#EXTINF:0 tvg-id="mir-24", Мир 24
+https://strm.yandex.ru/kal/mir_24_belarus/mir_24_belarus0.m3u8
+
