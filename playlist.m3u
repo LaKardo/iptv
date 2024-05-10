@@ -65,28 +65,51 @@ http://10.0.0.12:7713/Spas
 
 #EXTINF:0 tvg-id="football-ru", Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
-
 #EXTINF:0 tvg-id="box-tv", Бокс ТВ
 https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
-
 #EXTINF:0 tvg-id="2na2", 2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
-
 #EXTINF:0 tvg-id="tnt-music", ТНТ Music
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
-
 #EXTINF:0 tvg-id="ntv-serial", НТВ Сериал
 https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
-
 #EXTINF:0 tvg-id="kinokomedia", Кинокомедия
 https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
-
 #EXTINF:0 tvg-id="kinomiks", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
-
 #EXTINF:0 tvg-id="kinopremiera-hd", Кинопремьера
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
-
 #EXTINF:0 tvg-id="mir-24", Мир 24
 https://strm.yandex.ru/kal/mir_24_belarus/mir_24_belarus0.m3u8
 
+
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-action", TV1000 Action
+http://178.49.230.196:81/udp/239.1.21.33:1234
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000", TV1000
+http://176.51.69.174:1234/udp/233.7.70.53:5000
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-megahit", VIP Megahit HD
+http://178.49.230.196:81/udp/239.1.21.39:1234
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-detektiv", Русский Детектив
+http://178.49.230.196:81/udp/239.1.4.16:1234
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-illuzion", Русский Иллюзион
+http://178.49.230.196:81/udp/239.1.4.11:1234
+
+#EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport", Viasat Sport
+http://176.51.69.174:1234/udp/233.7.70.15:5000
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl", КХЛ ТВ
+http://176.51.69.174:1234/udp/233.7.70.5:5000
+#EXTINF:-1 group-title="Спорт" tvg-id="match-boets", Матч! Боец
+http://178.49.230.196:81/udp/239.1.12.9:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="match-igra", Матч! Игра
+http://178.49.230.196:81/udp/239.1.12.10:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="match-premier", Матч! Премьер
+http://178.49.230.196:81/udp/239.1.20.11:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="match-nash-sport", Матч! Страна
+http://178.49.230.196:81/udp/239.1.12.12:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="match-football1", Матч! Футбол 1
+http://178.49.230.196:81/udp/239.1.23.1:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="match-football2", Матч! Футбол 2
+http://178.49.230.196:81/udp/239.1.23.2:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="match-football3", Матч! Футбол 3
+http://178.49.230.196:81/udp/239.1.23.3:1234
