@@ -75,7 +75,7 @@ https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:0 tvg-id="box-tv", Бокс ТВ
 https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
 
-#EXTINF:0 tvg-id="2na2", 2x2
+#EXTINF:0 tvg-id="2na2" tvg-name="2na2", 2x2
 https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
 
 #EXTINF:0 tvg-id="tnt-music", ТНТ Music
