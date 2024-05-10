@@ -80,3 +80,9 @@ https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 https://strm.yandex.ru/kal/mir_24_belarus/mir_24_belarus0.m3u8
 #EXTINF:0 tvg-id="solovjinypomiot", Соловьёв Live
 https://player.smotrim.ru/iframe/stream/live_id/63338
+
+
+#EXTINF:-1 tvg-id="start", Старт HD
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 tvg-id="start-triumf", Старт Триумф HD
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
