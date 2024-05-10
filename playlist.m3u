@@ -10,11 +10,10 @@ http://91.224.16.9:7779/Oplot_2/index.m3u8
 http://10.0.0.12:9002/novoros/index.m3u8
 #EXTINF:0 tvg-name="Юнион" , Юнион
 http://10.0.0.12:9002/union/index.m3u8
-#EXTINF:0 tvg-name="Телеканал 360" , Телеканал 360
+
+
+#EXTINF:0 tvg-id="360-podmoskovie", Телеканал 360
 http://10.0.0.12:7708/360Podmoskove/index.m3u8
-
-
-
 #EXTINF:0 tvg-id="piatnica", Пятница
 http://10.0.0.12:7713/Pyatnica/index.m3u8
 #EXTINF:0 tvg-id="ntv", НТВ (HD)
@@ -61,8 +60,6 @@ http://10.0.0.12:7702/OTR/index.m3u8
 http://10.0.0.12:7713/Spas
 
 
-
-
 #EXTINF:0 tvg-id="football-ru", Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:0 tvg-id="box-tv", Бокс ТВ
@@ -83,54 +80,3 @@ https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 https://strm.yandex.ru/kal/mir_24_belarus/mir_24_belarus0.m3u8
 #EXTINF:0 tvg-id="solovjinypomiot", Соловьёв Live
 https://player.smotrim.ru/iframe/stream/live_id/63338
-
-
-
-#EXTINF:-1,TV1000
-http://82.209.197.187:8080/udp/239.0.100.141:1234
-#EXTINF:-1,TV1000 HD
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,TV1000 Action HD
-https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,TV1000 Русское кино
-http://82.209.197.187:8080/udp/239.0.100.82:1234
-#EXTINF:-1,TV1000 Русское кино HD
-https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1,VIP Megahit
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,VIP Premiere
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,VIP Comedy
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,VIP Serial
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,VIP Serial
-http://94.229.250.73:8008/play/a003
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-illuzion", Русский Иллюзион
-https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport", Viasat Sport
-http://176.51.69.174:1234/udp/233.7.70.15:5000
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl", КХЛ ТВ
-http://176.51.69.174:1234/udp/233.7.70.5:5000
-#EXTINF:-1 group-title="Спорт" tvg-id="match-boets", Матч! Боец
-http://178.49.230.196:81/udp/239.1.12.9:1234
-#EXTINF:-1 group-title="Спорт" tvg-id="match-igra", Матч! Игра
-http://178.49.230.196:81/udp/239.1.12.10:1234
-#EXTINF:-1 group-title="Спорт" tvg-id="match-premier", Матч! Премьер
-http://178.49.230.196:81/udp/239.1.20.11:1234
-#EXTINF:-1 group-title="Спорт" tvg-id="match-nash-sport", Матч! Страна
-http://178.49.230.196:81/udp/239.1.12.12:1234
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football1", Матч! Футбол 1
-http://178.49.230.196:81/udp/239.1.23.1:1234
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football2", Матч! Футбол 2
-http://178.49.230.196:81/udp/239.1.23.2:1234
-#EXTINF:-1 group-title="Спорт" tvg-id="match-football3", Матч! Футбол 3
-http://178.49.230.196:81/udp/239.1.23.3:1234
