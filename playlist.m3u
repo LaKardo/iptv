@@ -10,20 +10,12 @@ http://91.224.16.9:7779/Oplot_2/index.m3u8
 http://10.0.0.12:9002/novoros/index.m3u8
 #EXTINF:0 tvg-name="Юнион" , Юнион
 http://10.0.0.12:9002/union/index.m3u8
-#EXTINF:0 tvg-name="Первый канал" , Первый канал
-http://10.0.0.12:7702/Perviy_kanal/index.m3u8
 #EXTINF:0 tvg-name="Первый канал" , Первый канал (HD)
 http://10.0.0.12:7705/Perviy_kanal_HD/index.m3u8
-#EXTINF:0 tvg-name="ТНТ" , ТНТ
-http://10.0.0.12:7702/TNT/index.m3u8
 #EXTINF:0 tvg-name="ТНТ" , ТНТ (HD)
 http://10.0.0.12:7710/TNT_HD/index.m3u8
-#EXTINF:0 tvg-name="sts" , СТС
-http://10.0.0.12:7702/sts/index.m3u8
 #EXTINF:0 tvg-name="sts" , СТС HD
 http://10.0.0.12:7814/STS_HD/index.m3u8
-#EXTINF:0 tvg-name="Россия 1" , Россия 1
-http://10.0.0.12:7713/Rossiya1/index.m3u8
 #EXTINF:0 tvg-name="Россия HD" , Россия 1 (HD)
 http://10.0.0.12:7710/Rossiya_HD/index.m3u8
 #EXTINF:0 tvg-name="Россия 24" , Россия 24
@@ -32,8 +24,6 @@ http://10.0.0.12:7713/Rossiya24/index.m3u8
 http://10.0.0.12:7713/RossiyaK/index.m3u8
 #EXTINF:0 tvg-name="Мир" , Мир
 http://10.0.0.12:7713/Mir/index.m3u8
-#EXTINF:0 tvg-name="НТВ" , НТВ
-http://10.0.0.12:7702/NTV/index.m3u8
 #EXTINF:0 tvg-name="НТВ HD" , НТВ (HD)
 http://10.0.0.12:7705/NTV_HD/index.m3u8
 #EXTINF:0 tvg-id="rtr-planeta-eu", РТР Планета
@@ -52,8 +42,6 @@ http://10.0.0.12:7702/Domashniy/index.m3u8
 http://10.0.0.12:7709/TNT4/index.m3u8
 #EXTINF:0 tvg-name="Пятница" , Пятница
 http://10.0.0.12:7713/Pyatnica/index.m3u8
-#EXTINF:0 tvg-name="Матч!" , Матч!
-http://10.0.0.12:7713/Match!/index.m3u8
 #EXTINF:0 tvg-name="Матч! HD" , Матч! (HD)
 http://10.0.0.12:7710/MATCH!_HD/index.m3u8
 #EXTINF:0 tvg-name="Карусель" , Карусель
