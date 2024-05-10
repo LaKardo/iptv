@@ -80,27 +80,27 @@ https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 https://strm.yandex.ru/kal/mir_24_belarus/mir_24_belarus0.m3u8
 #EXTINF:0 tvg-id="solovjinypomiot", Соловьёв Live
 https://player.smotrim.ru/iframe/stream/live_id/63338
-#EXTINF:-1 tvg-id="start", Старт HD
+#EXTINF:0 tvg-id="start", Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
-#EXTINF:-1 tvg-id="start-triumf", Старт Триумф HD
+#EXTINF:0 tvg-id="start-triumf", Старт Триумф HD
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Кино", Кинокомедия
+#EXTINF:0 group-title="Кино", Кинокомедия
 http://91.205.199.3:80/komedia/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинокомедия HD
+#EXTINF:0 group-title="Кино", Кинокомедия HD
 http://188.113.190.15/334/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Киномикс
+#EXTINF:0 group-title="Кино", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
-#EXTINF:-1 group-title="Кино", Киномикс HD
+#EXTINF:0 group-title="Кино", Киномикс HD
 https://st1.uzdigital.tv/Kinomiks/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Кинопоказ
+#EXTINF:0 group-title="Кино", Кинопоказ
 http://178.163.37.154:4022/udp/234.0.0.209:2000
-#EXTINF:-1 group-title="Кино", Кинопремьера
+#EXTINF:0 group-title="Кино", Кинопремьера
 http://91.207.114.209:5000/c42
-#EXTINF:-1 group-title="Кино", Кинопремьера HD
+#EXTINF:0 group-title="Кино", Кинопремьера HD
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 
 
