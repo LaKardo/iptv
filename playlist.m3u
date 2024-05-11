@@ -124,15 +124,11 @@ http://91.205.199.3:80/vipserialhd/index.m3u8
 https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24" group-title="Новости", Россия 24 (Архив)
+#EXTINF:0 tvg-id="rossia-24" group-title="Новости", Россия 24 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
-#EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
+#EXTINF:0 tvg-id="oxotnik-i-rybolov-hd", Охотник и рыболов HD
 https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
-
-
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
-https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
+#EXTINF:0 tvg-id="kxl-hd", KHL Prime HD 
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
