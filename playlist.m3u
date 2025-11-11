@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://exstream.net.ua/iptv/jtv.zip" url-tvg="http://exstream.net.ua/iptv/jtv.zip,http://exstream.net.ua/iptv/onex.gz" refresh="86400" m3uautoload=1 cache=1024 deinterlace=1 tvg-shift=0
+#EXTM3U x-tvg-url="http://exstreamnet.ru/iptv/jtv.zip" url-tvg="http://exstreamnet.ru/iptv/jtv.zip,http://exstreamnet.ru/iptv/resp.xml,http://exstreamnet.ru/iptv/onex.gz" m3uautoload=1 cache=1024 deinterlace=1 tvg-shift=0
 #EXTINF:0 tvg-name="1 Республиканский" tvg-shift="-0" , 1-й Республиканский
 http://10.0.0.12:9002/1_respub/index.m3u8
 #EXTINF:0 tvg-name="Оплот ТВ" tvg-shift="-0" , Оплот ТВ
@@ -7,6 +7,8 @@ http://10.0.0.12:9002/oplot_hd/index.m3u8
 http://91.224.16.9:7779/Oplot_2/index.m3u8
 #EXTINF:0 tvg-name="Новороссия ТВ" tvg-shift="-0" , Новороссия ТВ
 http://10.0.0.12:9002/novoros/index.m3u8
+#EXTINF:0 tvg-name="Юнион" tvg-shift="-0" , Юнион
+http://10.0.0.12:9002/union/index.m3u8
 #EXTINF:0 tvg-name="Первый канал" tvg-shift="-0" , Первый канал (HD)
 http://10.0.0.12:7705/Perviy_kanal_HD/index.m3u8
 #EXTINF:0 tvg-name="Пятый Канал" tvg-shift="-0" , 5 Канал
@@ -21,15 +23,14 @@ http://10.0.0.12:7713/RossiyaK/index.m3u8
 http://10.0.0.12:7705/NTV_HD/index.m3u8
 #EXTINF:0 tvg-name="Мир" tvg-shift="-0" , Мир
 http://10.0.0.12:7713/Mir/index.m3u8
+#EXTINF:0 tvg-name="Россия-Планета_(Европа)" tvg-shift="-0" , РТР Планета
+http://10.0.0.12:9002/rtr_planeta/index.m3u8
 #EXTINF:0 tvg-name="Рен ТВ" tvg-shift="-0" , Рен ТВ
 http://10.0.0.12:7713/RenTV/index.m3u8
 #EXTINF:0 tvg-name="RT News" tvg-shift="-0" , RT News
 http://10.0.0.12:7702/RT_News/index.m3u8
 #EXTINF:0 tvg-name="RT Documentary" tvg-shift="-0" , RT Documentary
 http://10.0.0.12:7702/RT_Documentary/index.m3u8
-
-
-
 #EXTINF:0 tvg-name="НТВ Сериал" tvg-shift="-0" , НТВ Сериал
 http://10.0.0.12:7706/ntv_serial/index.m3u8
 #EXTINF:0 tvg-name="ТВ-3" tvg-shift="-0" , ТВ3
@@ -58,9 +59,6 @@ http://10.0.0.12:7702/OTR/index.m3u8
 http://10.0.0.12:7713/Pyatnica/index.m3u8
 #EXTINF:0 tvg-name="КВН ТВ" tvg-shift="-0" , КВН ТВ
 http://10.0.0.12:7711/KVN/index.m3u8
-
-
-
 #EXTINF:0 tvg-name="Мужское Кино" tvg-shift="-0" , Мужское Кино (HD)
 http://10.0.0.12:7815/Muzskoe_kino_HD/index.m3u8
 #EXTINF:0 tvg-name="VIP_Comedy" tvg-shift="-0" , VIP Comedy (HD)
@@ -77,12 +75,10 @@ http://10.0.0.12:9002/TV1000_HD/index.m3u8
 http://10.0.0.12:9002/TV1000_Action_HD/index.m3u8
 #EXTINF:0 tvg-name="TV1000_Русское_кино" tvg-shift="-0" , TV1000 Русское кино HD
 http://10.0.0.12:9002/TV1000_Russkoe_HD/index.m3u8
-
 #EXTINF:0 tvg-name="Da Vinci" tvg-shift="-0" , Da Vinci
 http://10.0.0.12:7703/DaVinciLearning/index.m3u8
 #EXTINF:0 tvg-name="Дикий" tvg-shift="-0" , Дикий
 http://10.0.0.12:7711/Dikiy/index.m3u8
-
 #EXTINF:0 tvg-name="Viasat_Nature_History_HD" tvg-shift="-0" , Viasat Nature/History HD
 http://10.0.0.12:7704/ViasatNatureHistoryHD/index.m3u8
 #EXTINF:0 tvg-name="Viasat_History" tvg-shift="-0" , Viasat History
@@ -95,32 +91,40 @@ http://10.0.0.12:7703/ViasatExplorer/index.m3u8
 http://10.0.0.12:7703/ViasatNature/index.m3u8
 #EXTINF:0 tvg-name="Hollywood HD" tvg-shift="-0" , Hollywood HD
 http://10.0.0.12:7704/Hollywood_HD/index.m3u8
-
 #EXTINF:0 tvg-name="Кинокомедия" tvg-shift="-0" , Кинокомедия
 http://10.0.0.12:7711/Kinokomedija/index.m3u8
 #EXTINF:0 tvg-name="Киносерия" tvg-shift="-0" , Киносерия
 http://10.0.0.12:7711/Kinoseriya/index.m3u8
+#EXTINF:0 tvg-name="Киномикс" tvg-shift="-0" , Киномикс
+http://10.0.0.12:7711/Kinomiks/index.m3u8
 #EXTINF:0 tvg-name="Киномикс HD" tvg-shift="-0" , Киномикс HD
 http://10.0.0.12:7814/Kinomix_HD/index.m3u8
 #EXTINF:0 tvg-name="Киноужас" tvg-shift="-0" , Киноужас
 http://10.0.0.12:7711/Kinouzas/index.m3u8
-
+#EXTINF:0 tvg-name="Родное кино" tvg-shift="-0" , Родное кино
+http://10.0.0.12:7711/RodnoeKino/index.m3u8
+#EXTINF:0 tvg-name="Ностальгия" tvg-shift="-0" , Ностальгия
+http://10.0.0.12:7711/Nostalgiya/index.m3u8
+#EXTINF:0 tvg-name="Русский_Иллюзион" tvg-shift="-0" , Русский иллюзион
+http://10.0.0.12:7707/Russkij_Illusion/index.m3u8
+#EXTINF:0 tvg-name="Еврокино" tvg-shift="-0" , Еврокино
+http://10.0.0.12:7709/Evrokino/index.m3u8
+#EXTINF:0 tvg-name="Наше Новое Кино" tvg-shift="-0" , Наше Новое Кино
+http://10.0.0.12:7711/Nashenovokino/index.m3u8
+#EXTINF:0 tvg-name="Hollywood" tvg-shift="-0" , Hollywood
+http://10.0.0.12:7707/Hollywood/index.m3u8
 #EXTINF:0 tvg-name="Star cinema" tvg-shift="-0" , Star cinema
 http://10.0.0.12:7814/Star_cinema/index.m3u8
 #EXTINF:0 tvg-name="Star Family" tvg-shift="-0" , Star Family
 http://10.0.0.12:7814/Star_family/index.m3u8
-
-
-
+#EXTINF:0 tvg-name="Авто24 HD" tvg-shift="-0" tvg-logo="Авто24 HD", Авто 24
+http://10.0.0.12:7708/Avto24/index.m3u8
 #EXTINF:0 tvg-name="Дикая Охота HD" tvg-shift="-0" , Дикая Охота HD
 http://10.0.0.12:7814/Dikaya_ohota_HD/index.m3u8
 #EXTINF:0 tvg-name="Охота и Рыбалка" tvg-shift="-0" , Охота и Рыбалка
 http://10.0.0.12:7709/Ohota_i_Ribalka/index.m3u8
 #EXTINF:0 tvg-name="Дикая Рыбалка HD" tvg-shift="-0" , Дикая Рыбалка HD
 http://10.0.0.12:7814/Dikaya_ribalka_HD/index.m3u8
-
-
-
 #EXTINF:0 tvg-name="Телеканал Футбол" tvg-shift="-0" , Телеканал Футбол
 http://10.0.0.12:7814/Futbol/index.m3u8
 #EXTINF:0 tvg-name="Матч! HD" tvg-shift="-0" , Матч! (HD)
@@ -139,11 +143,9 @@ http://10.0.0.12:7710/MATCH!_IGRA_HD/index.m3u8
 http://10.0.0.12:7722/Boets_HD/index.m3u8
 #EXTINF:0 tvg-name="МАТЧ! СТРАНА HD" tvg-shift="-0" , МАТЧ! Страна (HD)
 http://10.0.0.12:7710/Match!Strana_HD/index.m3u8
-
 #EXTINF:0 tvg-name="Бокс ТВ" tvg-shift="-0" , Бокс ТВ
 http://10.0.0.12:7706/Boks_TV/index.m3u8
 #EXTINF:0 tvg-name="MMA-TV" tvg-shift="-0" , MMA-TV
 http://10.0.0.12:7708/M1_Global_TV/index.m3u8
-
 #EXTINF:0 tvg-name="Мир Баскетбола" tvg-shift="-0" , Мир Баскетбола
 http://10.0.0.12:7708/Mir_Basketbola/index.m3u8
