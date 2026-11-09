@@ -41,9 +41,9 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 http://10.0.0.12:7706/ntv_hit/index.m3u8
 #EXTINF:-1 tvg-id="304" tvg-name="Домашний",Домашний
 http://10.0.0.12:7702/Domashniy/index.m3u8
-#EXTINF:-1 tvg-id="1649" tvg-name="ТНТ4",ТНТ4
-http://10.0.0.12:7709/TNT4/index.m3u8
-#EXTINF:-1 tvg-id="7979" tvg-name="ТНТ4 +4",ТНТ +4 (HD)
+#EXTINF:-1 tvg-id="1649" tvg-name="ТНТ4",ТНТ4 (HD)
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
+#EXTINF:-1 tvg-id="353" tvg-name="ТНТ FHD",ТНТ (HD)
 http://10.0.0.12:7710/TNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="79" tvg-name="СТС HD",СТС HD
 http://10.0.0.12:7814/STS_HD/index.m3u8
