@@ -43,7 +43,7 @@ http://10.0.0.12:7706/ntv_hit/index.m3u8
 http://10.0.0.12:7702/Domashniy/index.m3u8
 #EXTINF:-1 tvg-id="1649" tvg-name="ТНТ4",ТНТ4
 http://10.0.0.12:7709/TNT4/index.m3u8
-#EXTINF:-1 tvg-id="353" tvg-name="ТНТ FHD",ТНТ (HD)
+#EXTINF:-1 tvg-id="7979" tvg-name="ТНТ4 +4",ТНТ +4 (HD)
 http://10.0.0.12:7710/TNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="79" tvg-name="СТС HD",СТС HD
 http://10.0.0.12:7814/STS_HD/index.m3u8
@@ -143,7 +143,7 @@ http://10.0.0.12:7710/MATCH!_IGRA_HD/index.m3u8
 http://10.0.0.12:7722/Boets_HD/index.m3u8
 #EXTINF:-1 tvg-id="2042" tvg-name="Матч! Страна HD",МАТЧ! Страна (HD)
 http://10.0.0.12:7710/Match!Strana_HD/index.m3u8
-#EXTINF:-1 tvg-id="2285" tvg-name="Бокс ТВ",Бокс ТВ
+#EXTINF:-1 tvg-id="16" tvg-name="Доктор",Доктор
 http://10.0.0.12:7706/Boks_TV/index.m3u8
 #EXTINF:-1 tvg-id="2326" tvg-name="MMA-TV.com",MMA-TV
 http://10.0.0.12:7708/M1_Global_TV/index.m3u8
