@@ -15,28 +15,28 @@ http://10.0.0.12:7705/Perviy_kanal_HD/index.m3u8
 http://10.0.0.12:7713/5Kanal/index.m3u8
 #EXTINF:-1 tvg-id="711" tvg-name="Россия 1 FHD",Россия 1 (HD)
 http://10.0.0.12:7710/Rossiya_HD/index.m3u8
-#EXTINF:-1 tvg-id="1683" tvg-name="Россия 24",Россия 24
-http://10.0.0.12:7713/Rossiya24/index.m3u8
-#EXTINF:-1 tvg-id="187" tvg-name="Россия Культура",Россия Культура
-http://10.0.0.12:7713/RossiyaK/index.m3u8
+#EXTINF:-1 tvg-id="1683" tvg-name="Россия 24",Россия 24 (HD)
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-id="187" tvg-name="Россия Культура",Россия Культура (HD)
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="162" tvg-name="НТВ HD",НТВ (HD)
 http://10.0.0.12:7705/NTV_HD/index.m3u8
-#EXTINF:-1 tvg-id="726" tvg-name="Мир",Мир
-http://10.0.0.12:7713/Mir/index.m3u8
-#EXTINF:-1 tvg-id="2547" tvg-name="РТР Планета",РТР Планета
-http://10.0.0.12:9002/rtr_planeta/index.m3u8
+#EXTINF:-1 tvg-id="726" tvg-name="Мир",Мир (HD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="2547" tvg-name="РТР Планета",РТР Планета (HD)
+https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
 #EXTINF:-1 tvg-id="18" tvg-name="Рен ТВ HD",Рен ТВ
 http://10.0.0.12:7713/RenTV/index.m3u8
-#EXTINF:-1 tvg-id="2269" tvg-name="RT News",RT News
-http://10.0.0.12:7702/RT_News/index.m3u8
-#EXTINF:-1 tvg-id="2295" tvg-name="RT Documentary",RT Documentary
-http://10.0.0.12:7702/RT_Documentary/index.m3u8
+#EXTINF:-1 tvg-id="2269" tvg-name="RT News",RT News (HD)
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="2295" tvg-name="RT Documentary",RT Documentary (HD)
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="1754" tvg-name="НТВ Сериал",НТВ Сериал
 http://10.0.0.12:7706/ntv_serial/index.m3u8
 #EXTINF:-1 tvg-id="698" tvg-name="ТВ-3",ТВ3
 http://10.0.0.12:7713/TV3/index.m3u8
-#EXTINF:-1 tvg-id="405" tvg-name="Звезда",Звезда
-http://10.0.0.12:7713/Zvezda/index.m3u8
+#EXTINF:-1 tvg-id="405" tvg-name="Звезда",Звезда (HD)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="2041" tvg-name="НТВ Хит",НТВ ХИТ
 http://10.0.0.12:7706/ntv_hit/index.m3u8
 #EXTINF:-1 tvg-id="304" tvg-name="Домашний",Домашний
