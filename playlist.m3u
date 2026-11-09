@@ -7,8 +7,6 @@ http://10.0.0.12:9002/oplot_hd/index.m3u8
 http://91.224.16.9:7779/Oplot_2/index.m3u8
 #EXTINF:-1 tvg-name="Новороссия ТВ",Новороссия ТВ
 http://10.0.0.12:9002/novoros/index.m3u8
-#EXTINF:-1 tvg-name="Юнион",Юнион
-http://10.0.0.12:9002/union/index.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="Первый канал FHD",Первый канал (HD)
 http://10.0.0.12:7705/Perviy_kanal_HD/index.m3u8
 #EXTINF:-1 tvg-id="427" tvg-name="Пятый канал",5 Канал
@@ -16,27 +14,27 @@ http://10.0.0.12:7713/5Kanal/index.m3u8
 #EXTINF:-1 tvg-id="711" tvg-name="Россия 1 FHD",Россия 1 (HD)
 http://10.0.0.12:7710/Rossiya_HD/index.m3u8
 #EXTINF:-1 tvg-id="1683" tvg-name="Россия 24",Россия 24 (HD)
-https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+https://bl.rutube.ru/livestream/ad6ba2e9e587406b29978b861b7b7dd1/index.m3u8?s=iOh-i-U-jgxY5hRkP5Ebkw&e=2094243129&scheme=https
 #EXTINF:-1 tvg-id="187" tvg-name="Россия Культура",Россия Культура (HD)
-https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+https://bl.rutube.ru/livestream/d0c0d69362edfbe706cb82d973439bb5/index.m3u8?s=fro15tFUr425EI1ZEIuFgA&e=2094243129&scheme=https
 #EXTINF:-1 tvg-id="162" tvg-name="НТВ HD",НТВ (HD)
 http://10.0.0.12:7705/NTV_HD/index.m3u8
 #EXTINF:-1 tvg-id="726" tvg-name="Мир",Мир (HD)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=ump-I-1yrBt6q2cqbAG-pQ&e=2094243130&scheme=https
 #EXTINF:-1 tvg-id="2547" tvg-name="РТР Планета",РТР Планета (HD)
 https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
-#EXTINF:-1 tvg-id="18" tvg-name="Рен ТВ HD",Рен ТВ
-http://10.0.0.12:7713/RenTV/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="Рен ТВ HD",Рен ТВ (HD)
+http://10.0.0.12:7705/REN_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="2269" tvg-name="RT News",RT News (HD)
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+https://bl.rutube.ru/livestream/e553770139adc990ee5f54972ff4121b/index.m3u8?s=7jCzloREYzGCthfIdU0HFg&e=2094243131&scheme=https
 #EXTINF:-1 tvg-id="2295" tvg-name="RT Documentary",RT Documentary (HD)
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="1754" tvg-name="НТВ Сериал",НТВ Сериал
 http://10.0.0.12:7706/ntv_serial/index.m3u8
-#EXTINF:-1 tvg-id="698" tvg-name="ТВ-3",ТВ3
-http://10.0.0.12:7713/TV3/index.m3u8
+#EXTINF:-1 tvg-id="698" tvg-name="ТВ-3",ТВ3 (HD)
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=0wwHD4MavsDRO9LSjKSchQ&e=2094243131&scheme=https
 #EXTINF:-1 tvg-id="405" tvg-name="Звезда",Звезда (HD)
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=3X3x9vlMU2vRPy9rHYajxA&e=2094243132&scheme=https
 #EXTINF:-1 tvg-id="2041" tvg-name="НТВ Хит",НТВ ХИТ
 http://10.0.0.12:7706/ntv_hit/index.m3u8
 #EXTINF:-1 tvg-id="304" tvg-name="Домашний",Домашний
@@ -44,23 +42,23 @@ http://10.0.0.12:7702/Domashniy/index.m3u8
 #EXTINF:-1 tvg-id="1649" tvg-name="ТНТ4",ТНТ4 (HD)
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
 #EXTINF:-1 tvg-id="353" tvg-name="ТНТ FHD",ТНТ (HD)
-http://10.0.0.12:7710/TNT_HD/index.m3u8
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=84U4ZHiVqREXQVmCD6X6oQ&e=2094243132&scheme=https
 #EXTINF:-1 tvg-id="79" tvg-name="СТС HD",СТС HD
 http://10.0.0.12:7814/STS_HD/index.m3u8
-#EXTINF:-1 tvg-id="680" tvg-name="ТНТ MUSIC",ТНТ Music
-http://10.0.0.12:7708/TNT_Music/index.m3u8
-#EXTINF:-1 tvg-id="897" tvg-name="МУЗ-ТВ",Муз ТВ
-http://10.0.0.12:7702/MUZ/index.m3u8
+#EXTINF:-1 tvg-id="680" tvg-name="FON Music",FON Music (HD)
+https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=9NehMT8CjjrOhVwaOIRG8Q&e=2094243133&scheme=https
+#EXTINF:-1 tvg-id="897" tvg-name="МУЗ-ТВ",Муз ТВ (HD)
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=varyIwxSlxYudWEiAQ3vTg&e=2094243134&scheme=https
 #EXTINF:-1 tvg-id="649" tvg-name="ТВЦ",ТВЦ
 http://10.0.0.12:7702/TV_Centr_Evropa/index.m3u8
-#EXTINF:-1 tvg-id="1000" tvg-name="ОТР",ОТР
-http://10.0.0.12:7702/OTR/index.m3u8
-#EXTINF:-1 tvg-id="1003" tvg-name="Пятница! HD",Пятница
-http://10.0.0.12:7713/Pyatnica/index.m3u8
+#EXTINF:-1 tvg-id="1000" tvg-name="ОТР",ОТР (HD)
+http://10.0.0.12:1355/1203/index.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="Пятница! HD",Пятница (HD)
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=CGXjITGrTNUd1nQKJ2QE8A&e=2094243135&scheme=https
 #EXTINF:-1 tvg-id="1700" tvg-name="КВН ТВ",КВН ТВ
 http://10.0.0.12:7711/KVN/index.m3u8
 #EXTINF:-1 tvg-id="1584" tvg-name="МУЖСКОЕ КИНО",Мужское Кино (HD)
-http://10.0.0.12:7815/Muzskoe_kino_HD/index.m3u8
+https://bl.rutube.ru/livestream/d5a20f38240b01ab8e4019a78f7d6a81/index.m3u8?s=cFBJeOQiWmmBDuQ_7n78MA&e=2094243135&scheme=https
 #EXTINF:-1 tvg-id="1011" tvg-name="VIP Comedy",VIP Comedy (HD)
 http://10.0.0.12:7704/VIPComedyHD/index.m3u8
 #EXTINF:-1 tvg-id="1013" tvg-name="VIP Premiere",VIP Premiere (HD)
@@ -75,6 +73,34 @@ http://10.0.0.12:9002/TV1000_HD/index.m3u8
 http://10.0.0.12:9002/TV1000_Action_HD/index.m3u8
 #EXTINF:-1 tvg-id="267" tvg-name="TV1000 Русское Кино HD",TV1000 Русское кино HD
 http://10.0.0.12:9002/TV1000_Russkoe_HD/index.m3u8
+#EXTINF:-1 tvg-id="2020" tvg-name="Дом Кино Премиум HD",Дом кино Премиум HD
+http://10.0.0.12:1352/201/index.m3u8
+#EXTINF:-1 tvg-id="566" tvg-name="КИНОПРЕМЬЕРА HD",Кинопремьера HD
+http://10.0.0.12:1351/2208/index.m3u8
+#EXTINF:-1 tvg-id="1372" tvg-name="Amedia Premium HD",Amedia Premium HD
+http://10.0.0.12:1352/223/index.m3u8
+#EXTINF:-1 tvg-id="477" tvg-name="Любимое Кино HD",Любимое Кино HD
+http://10.0.0.12:1352/205/index.m3u8
+#EXTINF:-1 tvg-id="2275" tvg-name="Мир Сериала",Мир сериала HD
+http://10.0.0.12:1352/1202/index.m3u8
+#EXTINF:-1 tvg-id="7315" tvg-name="Сапфир HD",Сапфир HD
+http://10.0.0.12:1355/1206/index.m3u8
+#EXTINF:-1 tvg-id="9112" tvg-name="Старт Триумф HD",СТАРТ Триумф HD
+http://10.0.0.12:1355/1204/index.m3u8
+#EXTINF:-1 tvg-id="1395" tvg-name="BollywooD HD",Bollywood HD
+http://10.0.0.12:1352/224/index.m3u8
+#EXTINF:-1 tvg-id="2007" tvg-name="Amedia Hit HD",Amedia Hit HD
+http://10.0.0.12:7814/Amedia_Hit_HD/index.m3u8
+#EXTINF:-1 tvg-id="2492" tvg-name="A2 HD",A2 HD
+http://10.0.0.12:7815/A2_HD/index.m3u8
+#EXTINF:-1 tvg-id="311" tvg-name=".red HD",.red HD
+http://10.0.0.12:7815/RedHD/index.m3u8
+#EXTINF:-1 tvg-id="7314" tvg-name="Кинеко HD",Кинеко HD
+http://10.0.0.12:7712/Big_Planet_HD/index.m3u8
+#EXTINF:-1 tvg-id="542" tvg-name="Кинохит HD",Кинохит HD
+http://10.0.0.12:7814/Kinohit/index.m3u8
+#EXTINF:-1 tvg-id="2754" tvg-name="Cinema",Cinema HD
+http://10.0.0.12:7815/Cinema_HD/index.m3u8
 #EXTINF:-1 tvg-id="410" tvg-name="Da Vinci",Da Vinci
 http://10.0.0.12:7703/DaVinciLearning/index.m3u8
 #EXTINF:-1 tvg-id="2283" tvg-name="Дикий",Дикий
@@ -83,8 +109,8 @@ http://10.0.0.12:7711/Dikiy/index.m3u8
 http://10.0.0.12:7704/ViasatNatureHistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="277" tvg-name="Viju History",Viasat History
 http://10.0.0.12:7703/ViasatHistory/index.m3u8
-#EXTINF:-1 tvg-id="7623" tvg-name="Big Planet",Big Planet
-http://10.0.0.12:7703/BigPlanet/index.m3u8
+#EXTINF:-1 tvg-id="7623" tvg-name="Big Planet",Big Planet (HD)
+http://10.0.0.12:1352/1222/index.m3u8
 #EXTINF:-1 tvg-id="521" tvg-name="Viasat Explore",Viasat Explore
 http://10.0.0.12:7703/ViasatExplorer/index.m3u8
 #EXTINF:-1 tvg-id="765" tvg-name="Viasat Nature",Viasat Nature
@@ -106,7 +132,7 @@ http://10.0.0.12:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="783" tvg-name="Ностальгия",Ностальгия
 http://10.0.0.12:7711/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="Русский Иллюзион",Русский иллюзион
-http://10.0.0.12:7707/Russkij_Illusion/index.m3u8
+http://10.0.0.12:7703/Russkij_Illusion/index.m3u8
 #EXTINF:-1 tvg-id="352" tvg-name="Еврокино",Еврокино
 http://10.0.0.12:7709/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="485" tvg-name="Наше Новое Кино",Наше Новое Кино
@@ -129,6 +155,8 @@ http://10.0.0.12:7814/Dikaya_ribalka_HD/index.m3u8
 http://10.0.0.12:7814/Futbol/index.m3u8
 #EXTINF:-1 tvg-id="2051" tvg-name="Матч! HD",Матч! (HD)
 http://10.0.0.12:7710/MATCH!_HD/index.m3u8
+#EXTINF:-1 tvg-id="2250" tvg-name="Матч! Премьер HD",Матч! Премьер HD
+http://10.0.0.12:1349/299/index.m3u8
 #EXTINF:-1 tvg-id="2044" tvg-name="Матч! Футбол 1",Матч! Футбол 1 (HD)
 http://10.0.0.12:7722/Match!_Football_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="1042" tvg-name="Матч! Футбол 2",Матч! Футбол 2 (HD)
@@ -143,9 +171,11 @@ http://10.0.0.12:7710/MATCH!_IGRA_HD/index.m3u8
 http://10.0.0.12:7722/Boets_HD/index.m3u8
 #EXTINF:-1 tvg-id="2042" tvg-name="Матч! Страна HD",МАТЧ! Страна (HD)
 http://10.0.0.12:7710/Match!Strana_HD/index.m3u8
+#EXTINF:-1 tvg-id="1038" tvg-name="KHL Prime",KHL Prime HD
+http://10.0.0.12:1351/2205/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Доктор",Доктор
 http://10.0.0.12:7706/Boks_TV/index.m3u8
+#EXTINF:-1 tvg-id="2285" tvg-name="Бокс ТВ",Бокс ТВ
+http://10.0.0.12:1343/1320/index.m3u8
 #EXTINF:-1 tvg-id="2326" tvg-name="MMA-TV.com",MMA-TV
 http://10.0.0.12:7708/M1_Global_TV/index.m3u8
-#EXTINF:-1 tvg-id="4629" tvg-name="Мир Баскетбола",Мир Баскетбола
-http://10.0.0.12:7708/Mir_Basketbola/index.m3u8
